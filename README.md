@@ -12,6 +12,7 @@ Tested on Geometry Dash 2.11
 - [ ] Auto updater
 - [ ] Save DLLs without having to add them again
 - [ ] Auto inject as soon as GD starts
+- [ ] Fully working installer
 
 # Credits
 https://github.com/Reloaded-Project/Reloaded.Injector - DLL Injector
