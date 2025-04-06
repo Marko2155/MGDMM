@@ -10,7 +10,7 @@ Geometry Dash 2.1 Mod List - https://shocoo.github.io/
 
 
 # To Do List
-- [ ] Auto updater
+- [ ] Updater
 - [ ] Save DLLs without having to add them again
 - [ ] Auto inject as soon as GD starts
 - [ ] Fully working installer
