@@ -1,0 +1,117 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PeNet/0.8.1": {
+        "dependencies": {
+          "PeNet.Asn1": "1.3.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PeNet.dll": {
+            "assemblyVersion": "0.8.1.0",
+            "fileVersion": "0.8.1.0"
+          }
+        }
+      },
+      "PeNet.Asn1/1.3.1": {
+        "runtime": {
+          "lib/netstandard2.0/PeNet.Asn1.dll": {
+            "assemblyVersion": "1.3.1.0",
+            "fileVersion": "1.3.1.0"
+          }
+        }
+      },
+      "Reloaded.Assembler/1.0.14": {
+        "dependencies": {
+          "Reloaded.Memory.Buffers": "2.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Reloaded.Assembler.dll": {
+            "assemblyVersion": "1.0.14.0",
+            "fileVersion": "1.0.14.0"
+          }
+        }
+      },
+      "Reloaded.Injector/1.2.5": {
+        "dependencies": {
+          "PeNet": "0.8.1",
+          "Reloaded.Assembler": "1.0.14",
+          "Reloaded.Memory.Buffers": "2.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Reloaded.Injector.dll": {
+            "assemblyVersion": "1.2.5.0",
+            "fileVersion": "1.2.5.0"
+          }
+        }
+      },
+      "Reloaded.Memory/7.0.0": {
+        "runtime": {
+          "lib/net6.0/Reloaded.Memory.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "Reloaded.Memory.Buffers/2.0.0": {
+        "dependencies": {
+          "Reloaded.Memory": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Reloaded.Memory.Buffers.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeNet/0.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RJ2yrFMbAukncCJLoNzddZrxKpVWwaEn/2rNFgfxUnHoUs/ggI17zaK6ejcUOArqmbPBDV5GIVEwfjZVEPyBiw==",
+      "path": "penet/0.8.1",
+      "hashPath": "penet.0.8.1.nupkg.sha512"
+    },
+    "PeNet.Asn1/1.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2FImZRtab/UDLtRHSseFpT7R3OfkRIoyfJKibJSxDcYU57zMkUeR2qBnLsbhnepz1HJI9ZS9yMB89HtYQVN3AA==",
+      "path": "penet.asn1/1.3.1",
+      "hashPath": "penet.asn1.1.3.1.nupkg.sha512"
+    },
+    "Reloaded.Assembler/1.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y4I1ktSnHPIz3t1JcWk5Xiu0C0BmrlJ6nDnQGwiyz65RH6hjn9vPCcKYjpQDveuTtsebBFdTdUjxTUSw+qtZ2w==",
+      "path": "reloaded.assembler/1.0.14",
+      "hashPath": "reloaded.assembler.1.0.14.nupkg.sha512"
+    },
+    "Reloaded.Injector/1.2.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8WcAXh0iKw7BvTGXKouVJiFLcYZjFOYjTKx619Ul89qPc9OrsPVN0joZUGkITnipqr0hMrKw8Zj/gimRIjOqxw==",
+      "path": "reloaded.injector/1.2.5",
+      "hashPath": "reloaded.injector.1.2.5.nupkg.sha512"
+    },
+    "Reloaded.Memory/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QGg022yKnymnOGvvWQbIa7s0ODm3YRf4epRtr4D9pQ3KBy7mq/pF5kqCgW1oCmocjKnCKNBOBIz2A4zgZkLNkQ==",
+      "path": "reloaded.memory/7.0.0",
+      "hashPath": "reloaded.memory.7.0.0.nupkg.sha512"
+    },
+    "Reloaded.Memory.Buffers/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LghMip4Q1mpr9+HsZCGYazlaxnZyMtbiGf87Ttao8Al2F+wvnRet1gPPA5qEaTWnBFg/3DNILwBBbC0W6o0tsw==",
+      "path": "reloaded.memory.buffers/2.0.0",
+      "hashPath": "reloaded.memory.buffers.2.0.0.nupkg.sha512"
+    }
+  }
+}
