@@ -2,7 +2,10 @@
 Marko's Geometry Dash Mod Manager
 
 Tested on Geometry Dash 2.11
-![Designed for Visual Studio 2022](https://github.com/user-attachments/assets/59ca7384-6b6b-4130-a68a-0b2d8bd2e865)
+
+
+
+![Designed_for_Visual Studio 2022](https://github.com/user-attachments/assets/4093d510-f36f-447e-9a15-9727d3f5b6d3)
 
 
 # To Do List
