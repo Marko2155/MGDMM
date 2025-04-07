@@ -1,7 +1,7 @@
 # MGDMM
 Marko's Geometry Dash Mod Manager
 
-Tested on Geometry Dash 2.11 
+Tested on Geometry Dash 2.11.
 If anybody can get it working on any other versions, make sure to open an issue and add "[NVGD]" and then the version it works on (example: "[NVGD] 2.2074").
 
 ![Designed_for_Visual Studio 2022](https://github.com/user-attachments/assets/4093d510-f36f-447e-9a15-9727d3f5b6d3)
